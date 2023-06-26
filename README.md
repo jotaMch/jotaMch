@@ -2,7 +2,7 @@
 
 - 💻 Desenvolvedor Front-end
 - 🔭 Atualmente estou disponível para o mercado
-- 🌱 Estudo promises e Props em React
+- 🌱 Estudando React
 - 📧 jandersonmachado090@gmail.com
 
           
