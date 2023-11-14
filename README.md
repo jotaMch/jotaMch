@@ -1,5 +1,6 @@
-### Olá, bem vindo(a)! Me chamo Jânderson 👋
-
+### Olá! Eu sou o Jânderson Machado 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%A2nderson-machado-082b54259/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](mailto:jandersonmachado090@gmail.com) 
 - 💻 Analise e Desenvolvimento de Sistemas (cursando)
 - 🔭 Atualmente estou disponível para o mercado
 - 🌱 Estudando React
@@ -7,8 +8,6 @@
 
 ![jotaMch GitHub stats](https://github-readme-stats.vercel.app/api?username=jotaMch&show_icons=true&theme=merko)
 
-Meu linkedIn:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%A2nderson-machado-082b54259/) 
 
 ## Tecnologias que uso no meu dia
 <div style="display: inline-block"><br/>
