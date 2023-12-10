@@ -3,7 +3,7 @@
 - 🔭 Atualmente estou disponível para o mercado
 - 🌱 Estudando React
 ###
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%A2nderson-machado-082b54259/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-j%C3%A2nderson-082b54259/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jandersonmachado090@gmail.com) 
 
 ![jotaMch GitHub stats](https://github-readme-stats.vercel.app/api?username=jotaMch&show_icons=true&theme=merko)
