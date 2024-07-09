@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Jânderson Machado 👋
-- 💻 Analise e Desenvolvimento de Sistemas (2° semestre)
+- 💻 Analise e Desenvolvimento de Sistemas 
 - 🔭 Acredito em um mundo impulsionado pela inovação
 - 🌱 Estudando Python
 ###
