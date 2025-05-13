@@ -62,10 +62,10 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-<div style="border-top: 3px solid #ccc; display: inline-block; background-color: transparent;">
-  ![Antonio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jotaMch&show_icons=true&theme=github_dark)
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jotaMch&layout=compact&theme=github_dark)
-</div>
+![Antonio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jotaMch&show_icons=true&theme=github_dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jotaMch&layout=compact&theme=github_dark)
+
 
 ###
