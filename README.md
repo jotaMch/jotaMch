@@ -3,6 +3,10 @@
 </div>
 
 ###
+
+<h1 align="center">Antonio Jânderson</h1>
+
+###
 <div align="center">
   <a href="https://www.linkedin.com/in/antonio-j%C3%A2nderson-082b54259/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
@@ -20,26 +24,16 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
-
-###
-
-<h1 align="center">Antonio Jânderson</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">Be Welcome!</h3>
 
 ###
 
 <p align="left">
-          Desenvolvedor Front-end em transição para Full Stack, atualmente focado em C# e .NET.<br>
-          - 🎓 Estudante de Análise e Desenvolvimento de Sistemas.<br>
-          - 💻 Experiência em React, TypeScript, Node, Express, JTW, MongoDB Atlas e MySQL.<br>
-          - 🧠 Estudando e praticando intensamente C# e .NET para desenvolvimento backend.<br>
-          - 🎯 Interesse por Engenharia de software, boas práticas e desenvolvimento de APIs.</p>
+          • 👨‍💻 Desenvolvedor Front-end em transição para Full Stack, atualmente focado em C# e .NET.<br>
+          • 🎓 Estudante de Análise e Desenvolvimento de Sistemas.<br>
+          • 💻 Experiência em React, TypeScript, Node, Express, JTW, MongoDB Atlas e MySQL.<br>
+          • 🧠 Estudando e praticando intensamente C# e .NET para desenvolvimento backend.<br>
+          • 🎯 Interesse por Engenharia de software, boas práticas e desenvolvimento de APIs.</p>
           
 ###
 
