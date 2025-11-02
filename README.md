@@ -29,10 +29,10 @@
 ###
 
 <p align="left">
-          • 👨‍💻 Desenvolvedor Front-end em transição para Full Stack, atualmente focado em C# e .NET.<br>
+          • 👨‍💻 Desenvolvedor Front-end em transição para Full Stack, atualmente focado em Node & React<br>
           • 🎓 Estudante de Análise e Desenvolvimento de Sistemas.<br>
           • 💻 Experiência em React, TypeScript, Node, Express, JTW, MongoDB Atlas e MySQL.<br>
-          • 🧠 Estudando e praticando intensamente C# e .NET para desenvolvimento backend.<br>
+          • 🧠 Estudando Go para desenvolvimento backend.<br>
           • 🎯 Interesse por Engenharia de software, boas práticas e desenvolvimento de APIs.</p>
           
 ###
