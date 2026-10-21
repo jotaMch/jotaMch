@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Antonio Jânderson</h1>
+<h1 align="center">Jânderson</h1>
 
 ###
 <div align="center">
